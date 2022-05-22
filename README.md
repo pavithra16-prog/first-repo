@@ -1,2 +1,2 @@
-# first-repo
-I use this repo to learn about Git and Github
+# First-repo
+I use this repository to learn about Git and Github
