@@ -1,7 +1,7 @@
 # First-repo
 I use this repository to learn about Git and Github
 
-## Subheader
+## Sub -- Header
 Watch tutorial on Youtube...
 
 ## Local development 
